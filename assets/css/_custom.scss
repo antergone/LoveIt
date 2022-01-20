@@ -2,3 +2,12 @@
 // Custom style
 // 自定义样式
 // ==============================
+.single {
+	.content {
+		img {
+      max-width: 100%;
+      min-height: 1em;
+      width: 100%;
+    }
+	}
+}
